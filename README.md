@@ -1,9 +1,4 @@
-### Hi there 👋
 
-<!--
-**EngrMamunX/EngrMamunx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 👋 Hi, I’m Md.Abdullah Al Mamun
 - 🔭 I’m currently working on Cybersecurity & Digital Forensic
 - 🌱 I’m currently learning Ethical Hacking,CCNA,MTCNA,Linux,SOC,ISO etc
